@@ -74,7 +74,7 @@
 <body>
 
 <div class="container">
-    <h1>🏦 Krishna Bank</h1>
+    <h1>🏦 Mahesh Bank</h1>
     <h3>DevOps CI/CD Pipeline Test Application</h3>
 
     <div class="card">
